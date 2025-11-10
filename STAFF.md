@@ -81,6 +81,9 @@
 ### วิธีการนับแต้ม
 
 
+https://youtu.be/gTlViBJAcSQ?si=hACeYS0uC01vPM9J
+
+
 https://youtu.be/UP2tEUpvESg?si=IajIFoc-BXs6gPNP
 
 
