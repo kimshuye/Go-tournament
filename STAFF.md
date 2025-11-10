@@ -98,8 +98,23 @@ https://youtu.be/ssetxt1wUeA?si=xClzfGoeyqBM5o3k
 
 ### โปรแกรม นาฬิกา
 
-[Go/Chess Clock with sounds](https://play.google.com/store/apps/details?id=com.parseri.goclock&pcampaignid=web_share)
+[Go/Chess Clock with sounds Android](https://play.google.com/store/apps/details?id=com.parseri.goclock&pcampaignid=web_share)
 
+...
+
+<img src="./android.png" alt="teams" width="400" height="400">
+
+...
+
+...
+
+[Go/Chess Clock with sounds IPhone](https://apps.apple.com/th/app/go-chess-clock-with-sounds/id1658323608?l=th)
+
+...
+
+<img src="./iphone.png" alt="teams" width="400" height="400">
+
+...
 
 #### การตั้งค่านาฬิกา เลือกตามภาพดังต่อไปนี้
 
