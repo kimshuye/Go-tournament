@@ -136,3 +136,26 @@ https://youtu.be/ssetxt1wUeA?si=xClzfGoeyqBM5o3k
 https://v-go-committee.vercel.app/
 
 
+
+```
+
+ประเภท
+
+  บุคคลชาย
+
+  บุคคลหญิง
+
+  คู่ชาย
+
+  คู่หญิง
+
+  คู่ผสม
+
+  ทีมชาย
+
+  ทีมหญิง
+
+  ทีมผสม
+
+```
+
