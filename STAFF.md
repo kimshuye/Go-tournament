@@ -131,7 +131,7 @@ https://youtu.be/ssetxt1wUeA?si=xClzfGoeyqBM5o3k
 
 
 
-### โปรแกรมบันทึกคะแนนและรวมผลครับ
+### โปรแกรมบันทึกคะแนนและรวมผล
 
 https://v-go-committee.vercel.app/
 
